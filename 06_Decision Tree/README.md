@@ -13,3 +13,10 @@ File 2:
 Dataset Files:  
 * Iris Dataset.
 * Project HR required Dataset
+--------------------------
+Importing the packages:  
+import numpy as np  
+import matplotlib.pyplot as plt  
+%matplotlib inline  
+import seaborn as sns  
+import pandas as pd  
