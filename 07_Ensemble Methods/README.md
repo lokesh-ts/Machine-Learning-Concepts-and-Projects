@@ -7,8 +7,8 @@ This Folder consists of various types of Ensembling Methods such as:
 * Bagging machine algorithm- Ensemble of Ensemble method.
 * Project HR
 ----------------------------
+
 Every Method file has concept and Practical implementation.  
 Every practical implementation consists of dataset loading and training and testing the data,Data Preprocessing,  
 evaluation of scores such as Accuracy score,Confusion matrix, Classification report,R2_score.  
-----------------------------
 Dataset used: Titanic dataset loaded from Seaborn library.
