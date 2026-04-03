@@ -12,3 +12,11 @@ Every Method file has concept and Practical implementation.
 Every practical implementation consists of dataset loading and training and testing the data,Data Preprocessing,  
 evaluation of scores such as Accuracy score,Confusion matrix, Classification report,R2_score.  
 Dataset used: Titanic dataset loaded from Seaborn library.
+
+--------------------------
+Importing the packages:  
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+import pandas as pd
